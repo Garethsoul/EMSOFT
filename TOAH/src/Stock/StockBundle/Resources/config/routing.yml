@@ -1,0 +1,7 @@
+login:
+    pattern:  /
+    defaults: { _controller: StockBundle:Default:login }
+
+stock_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: StockBundle:Default:index }

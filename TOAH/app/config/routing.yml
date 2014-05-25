@@ -1,0 +1,4 @@
+stock:
+    resource: "@StockBundle/Resources/config/routing.yml"
+    prefix:   /
+
